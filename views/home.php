@@ -140,11 +140,11 @@
     <img src="../assets/img/carousel3.jpg" class="d-block " alt="photo cuisine">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
@@ -152,17 +152,11 @@
 
 
 
-<!-- Bannière de consentement des cookies -->
-<div id="cookieConsentBanner" class="col-md-12 text-center">
-  <p>Nous utilisons des cookies pour améliorer votre expérience sur notre site. En continuant, vous acceptez notre utilisation des cookies. <a href="/politique-de-cookies">En savoir plus</a></p>
-  <button class="bg-warning mx-4 mb-4 rounded" onclick="accepterCookies()">J'accepte</button><button class="bg-warning rounded" onclick="accepterCookies()">Je refuse</button>
-</div>
 
 <!-- Ajout librairie JQuery -->
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
-<!-- Votre script JavaScript pour gérer les cookies -->
-<script src="../assets/js/script-cookies.js"></script>
+
 <script src="../assets/js/script.js"></script>
 
 

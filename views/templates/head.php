@@ -14,8 +14,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
-/>
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"/>
 
   <script src="../assets/js/script.js"></script>
   <link rel=”icon” href=”favicon.ico” type=”image/x-icon”>
@@ -24,7 +23,6 @@
 </head>
 
 <body>
-
   <!-- en tête -->
   <header>
     <nav class="navbar navbar-expand-lg bg-dark bg-gradient navbar-dark">
